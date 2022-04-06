@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1624" data-name="Rectangle 1624" width="24" height="24" transform="translate(129 1121)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-129 -1121)" clip-path="url(#clip-path)">
+    <g id="logo_googleg_48dp" transform="translate(132 1124)">
+      <path id="Shape" d="M8.64,1.841A10.341,10.341,0,0,0,8.476,0H0V3.481H4.844A4.14,4.14,0,0,1,3.048,6.2V8.456H5.956A8.777,8.777,0,0,0,8.64,1.841Z" transform="translate(9 7.364)" fill="#4285f4"/>
+      <path id="Shape-2" data-name="Shape" d="M8.043,7.29A8.592,8.592,0,0,0,14,5.11L11.09,2.851a5.409,5.409,0,0,1-3.048.859A5.364,5.364,0,0,1,3.007,0H0V2.332A9,9,0,0,0,8.043,7.29Z" transform="translate(0.957 10.71)" fill="#34a853"/>
+      <path id="Shape-3" data-name="Shape" d="M3.964,5.752a5.321,5.321,0,0,1,0-3.42V0H.957a9.011,9.011,0,0,0,0,8.084L3.964,5.752Z" transform="translate(0 4.958)" fill="#fbbc05"/>
+      <path id="Shape-4" data-name="Shape" d="M8.043,3.58a4.862,4.862,0,0,1,3.44,1.346l2.581-2.581A8.649,8.649,0,0,0,8.043,0,9,9,0,0,0,0,4.958L3.007,7.29A5.364,5.364,0,0,1,8.043,3.58Z" transform="translate(0.957)" fill="#ea4335"/>
+      <path id="Shape-5" data-name="Shape" d="M0,0H18V18H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>
